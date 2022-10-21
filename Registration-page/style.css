@@ -1,0 +1,21 @@
+body{
+  background-color:#344a72;
+  margin-left:50px;
+  margin-right:100px;
+  font-family:sans-serif;
+}
+
+
+ .Registration-form{width:360px;
+                   height:620px;
+                   margin:auto;
+                   border-radius:3px;
+  
+}
+
+  
+.Registration-form p{
+       display:flex;
+        margin-top:20px;
+        font-size:18px;
+}
