@@ -5,7 +5,6 @@
 I Am a frontend developer.i can make a clean code and nice figma perfet design.
 ###feeback
 if you have any feedback,please reach out to us at chidimmannanwuno@gmail.com
-### Hi there,i'm Nnanwuno chidimma 👋
 
 
 
